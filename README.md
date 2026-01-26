@@ -2,19 +2,8 @@
 Hi, I’m Jakir Hussain
 
 AI Engineer | ML Enthusiast | Full-Stack AI Builder
-
-I build intelligent systems that turn data into decisions.
-From machine learning models to AI-powered web applications, I enjoy designing, training, and deploying solutions that solve real-world problems.
-
-💡 What I work on
-
-Machine Learning & Deep Learning
-
-Recommendation Systems & Predictive Analytics
-
-NLP & Computer Vision
-
-End-to-End AI Products (Model → API → UI)
+I design systems where models see, decide, and act in the real world.
+From computer vision and ML to hardware-integrated autonomy, I ship intelligence end-to-end.
 
 
 ## 🌐 Socials:
