@@ -2,6 +2,7 @@
 Hi, I’m Jakir Hussain
 
 AI Engineer | ML Enthusiast | Full-Stack AI Builder
+
 I design systems where models see, decide, and act in the real world.
 From computer vision and ML to hardware-integrated autonomy, I ship intelligence end-to-end.
 
