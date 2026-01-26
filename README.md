@@ -1,5 +1,20 @@
 # 💫 About Me:
-I’m an AI Engineer and CSE (AI & ML) undergraduate with hands-on experience in building machine learning–driven systems and end-to-end AI applications. I specialize in turning data into intelligent solutions by designing, training, and deploying ML models that solve real-world problems.<br><br>My work spans recommendation systems, predictive analytics, NLP, and computer vision, with a strong focus on model evaluation, experimentation, and scalability. I enjoy working across the stack—developing AI-powered backends using Python, Flask/Django, integrating models into web applications, and delivering user-centric products.<br><br>I’m passionate about applied AI, continuous learning, and building systems that create measurable impact. Always open to collaborating on innovative AI, ML, and data-driven projects.
+Hi, I’m Jakir Hussain
+
+AI Engineer | ML Enthusiast | Full-Stack AI Builder
+
+I build intelligent systems that turn data into decisions.
+From machine learning models to AI-powered web applications, I enjoy designing, training, and deploying solutions that solve real-world problems.
+
+💡 What I work on
+
+Machine Learning & Deep Learning
+
+Recommendation Systems & Predictive Analytics
+
+NLP & Computer Vision
+
+End-to-End AI Products (Model → API → UI)
 
 
 ## 🌐 Socials:
