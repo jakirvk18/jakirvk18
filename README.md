@@ -2,9 +2,11 @@
 Hi, I’m Jakir Hussain
 
 ### AI Engineer | Full-Stack Web Developer<br/>
+```
 Building AI that solves real problems and full-stack applications that deliver real impact.
 Turning ideas into scalable products with clean code, modern tech, and relentless execution. <br/>
 Always learning. Always building. Never settling. 🚀
+```
 
 
 ## 🌐 Socials:
