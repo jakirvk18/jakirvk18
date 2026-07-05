@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Jakir Hussain
 
-AI Engineer | Robotics | Full-Stack Web Developer<br/>
+AI Engineer | Full-Stack Web Developer<br/>
 I design systems where models see, decide, and act in the real world.
 From computer vision and ML to hardware-integrated autonomy, I ship intelligence end-to-end.
 
