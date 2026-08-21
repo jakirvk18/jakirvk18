@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1000&color=E4102A&center=true&vCenter=true&width=520&lines=Building+AI+that+solves+real+problems;Shipping+full-stack+systems+that+matter;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4102A)](https://instagram.com/zakir_vk18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E4102A)](https://linkedin.com/in/jakir-hussain-59833b28b)
