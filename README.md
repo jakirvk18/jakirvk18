@@ -1,8 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Jakir Hussain
-
-<sub>AI Engineer · Full-Stack Developer</sub>
+# AI Engineer | Full Stack Developer
 
 ```
 Building AI that solves real problems and full-stack systems that ship.
