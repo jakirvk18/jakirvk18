@@ -91,32 +91,7 @@ built on differentiable digital signal processing (Engel et al., 2020).
 
 </div>
 
-<br/>
 
-### `04 // SELECTED PROJECTS`
-
-| Project | Description | Stack |
-|---|---|---|
-| **Genre-DDSP** | Environmental audio → genre-constrained music via a learned Genre Mapping Layer (pitch quantizer + chord engine + rhythmic quantizer) | PyTorch, FastAPI, DSP |
-| **Signal** | Real-time WebRTC video conferencing with active-speaker detection and attention tracking | FastAPI, React, WebRTC |
-| **ProjectDeconstructor** | RAG-based tool for GitHub repo analysis with local LLM inference | FastAPI, ChromaDB, Ollama |
-| **CodeArchaeologist** | RAG-powered repo explorer with a dark developer UI | FastAPI, React |
-
-<br/>
-
-### `05 // CERTIFICATIONS & ACHIEVEMENTS`
-
-```
-▸ GATE 2026 — AIR 1580
-▸ AWS Certified
-▸ Oracle OCI Certified
-▸ Infosys Certified
-▸ NPTEL Certified
-```
-
-<br/>
-
-### `06 // CONNECT`
 
 <div align="center">
 
