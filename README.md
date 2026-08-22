@@ -9,7 +9,7 @@
 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4102A)](https://instagram.com/zakir_vk18)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=0069FF)](https://linkedin.com/in/jakir-hussain-59833b28b)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=E4102A)](https://linkedin.com/in/jakir-hussain-59833b28b)
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=Pinterest&logoColor=E4102A)](https://pinterest.com/zakir_vk18)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E4102A)](mailto:jakirsks646@gmail.com)
 
