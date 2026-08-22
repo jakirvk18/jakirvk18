@@ -11,6 +11,6 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=Pinterest&logoColor=E60023)](https://pinterest.com/zakir_vk18)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jakirsks646@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4102A,100:000000&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0069FF,100:000000&height=3&width=100%25" width="100%"/>
 
 </div>
