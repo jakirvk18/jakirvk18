@@ -38,45 +38,6 @@ class Zakir:
 
 </div>
 
-## `// BUILDS`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🎛 GENRE-DDSP**
-
-Environmental audio → Jazz / Boom-Bap / Lo-Fi / Classical.
-
-Dilated conv stem → Bi-GRU → self-attention → control heads (f₀, loudness, harmonics, noise) → harmonic + filtered-noise synth, trained on a multi-scale spectral loss.
-
-`PyTorch` `DDSP` `FastAPI`
-
-</td>
-<td width="33%" valign="top">
-
-**🧬 PROJECT DECONSTRUCTOR**
-
-Chat with any GitHub repo, fully local.
-
-Clone → chunk → `nomic-embed-text` → ChromaDB → cosine top-k → `qwen3:8b` / `deepseek-r1:8b`. Path-traversal safe, idempotent indexing.
-
-`FastAPI` `React` `Ollama`
-
-</td>
-<td width="33%" valign="top">
-
-**📡 SIGNAL**
-
-AI video conferencing over WebRTC.
-
-FFT speech-band energy with EMA smoothing for active-speaker detection, `face-api.js` attention tracking, JWT auth, host controls.
-
-`WebRTC` `MongoDB` `React`
-
-</td>
-</tr>
-</table>
 
 ## `// STATS`
 
