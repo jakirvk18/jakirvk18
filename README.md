@@ -46,8 +46,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakirvk18&bg_color=0D0D0D&color=E4102A&line=E4102A&point=FFFFFF&area=true&area_color=9C1600&radius=14&hide_border=true&custom_title=Contribution%20Activity&title_color=FFFFFF" alt="activity" width="96%"/>
-
+<img src="https://ghchart.rshah.org/9C1600/jakirvk18" alt="contribution chart" width="92%"/>
 <br/><br/>
 
 [![Email me](https://img.shields.io/badge/WRITE_TO_ME-9C1600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:jakirsks646@gmail.com)
