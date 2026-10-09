@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0069FF&height=180&section=header&text=Zakir&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9C1600&height=180&section=header&text=Zakir&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://instagram.com/zakir_vk18)
