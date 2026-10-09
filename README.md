@@ -19,18 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9C1600,100:000000&height=3&width=100%25" width="100%"/>
 
-## `// ABOUT`
 
-```python
-class Zakir:
-    role    = ["AI Engineer", "Full-Stack Developer"]
-    status  = "Final-year, B.Tech"
-    base    = "Vijayawada, India"
-    focus   = ["audio ML (DDSP)", "RAG + local LLMs", "real-time WebRTC", "C++ competitive programming"]
-    now     = "building a genre-conditioned DDSP system for publication"
-```
-
-## `// STACK`
 
 <div align="center">
 
@@ -38,7 +27,7 @@ class Zakir:
 
 </div>
 
-## `// STATS`
+## `STATS`
 
 <div align="center">
 
