@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:3a0900,100:9C1600&height=230&section=header&text=ZAKIR&fontSize=78&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=66&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=ZAKIR&fontSize=96&fontColor=E4102A&fontAlignY=50&stroke=9C1600&strokeWidth=1&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER&descAlignY=78&descSize=15&descAlign=50" width="100%"/>
 
 <a href="https://github.com/jakirvk18">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=E4102A&background=00000000&center=true&vCenter=true&width=700&lines=Differentiable+DSP+%E2%86%92+environmental+audio+to+music;RAG+over+codebases+with+local+LLMs;WebRTC+%2B+FFT+%2B+face+tracking+in+real+time;Final-year+%C2%B7+Vijayawada%2C+India" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=E4102A&background=00000000&center=true&vCenter=true&width=640&height=32&lines=Differentiable+DSP+for+audio;RAG+over+codebases+with+local+LLMs;Real-time+WebRTC+systems;Final-year+%C2%B7+Vijayawada%2C+India" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://instagram.com/zakir_vk18)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2)](https://linkedin.com/in/jakir-hussain-59833b28b)
