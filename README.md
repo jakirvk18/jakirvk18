@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=ZAKIR&fontSize=96&fontColor=E4102A&fontAlignY=50&stroke=9C1600&strokeWidth=1&animation=fadeIn&desc=AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER&descAlignY=78&descSize=15&descAlign=50" width="100%"/>
 
 <a href="https://github.com/jakirvk18">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=E4102A&background=00000000&center=true&vCenter=true&width=640&height=32&lines=Differentiable+DSP+for+audio;From Vijayawada, India;Die-Hard Fan of Monkey D Luffy;" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=E4102A&background=00000000&center=true&vCenter=true&width=640&height=32&lines=Differentiable+DSP+for+audio;From+Vijayawada,+India;Die-Hard+Fan+of+Monkey+D+Luffy;" alt="typing"/>
 </a>
 
 <br/><br/>
