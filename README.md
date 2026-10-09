@@ -38,19 +38,28 @@ class Zakir:
 
 </div>
 
-
 ## `// STATS`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jakirvk18&show_icons=true&hide_border=true&bg_color=000000&title_color=E4102A&icon_color=E4102A&text_color=FFFFFF&ring_color=9C1600&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirvk18&layout=compact&hide_border=true&bg_color=000000&title_color=E4102A&text_color=FFFFFF" alt="languages"/>
+<table>
+<tr>
+<td align="center">
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=jakirvk18&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&line_height=27&card_width=420&border_radius=14&border_color=9C1600&bg_color=0D0D0D&title_color=E4102A&icon_color=E4102A&text_color=D9D9D9&ring_color=E4102A&text_bold=false" alt="stats"/>
+</td>
+<td align="center">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirvk18&layout=donut&langs_count=6&card_width=330&border_radius=14&border_color=9C1600&bg_color=0D0D0D&title_color=E4102A&text_color=D9D9D9" alt="languages"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakirvk18&hide_border=true&background=000000&stroke=9C1600&ring=E4102A&fire=E4102A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E4102A&sideLabels=E4102A&dates=888888" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakirvk18&border_radius=14&background=0D0D0D&border=9C1600&stroke=2A2A2A&ring=E4102A&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E4102A&sideLabels=B3B3B3&dates=777777" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakirvk18&bg_color=000000&color=FFFFFF&line=E4102A&point=FFFFFF&area=true&area_color=9C1600&hide_border=true" alt="activity"/>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakirvk18&bg_color=0D0D0D&color=E4102A&line=E4102A&point=FFFFFF&area=true&area_color=9C1600&radius=14&hide_border=true&custom_title=Contribution%20Activity&title_color=FFFFFF" alt="activity" width="96%"/>
+
+<br/><br/>
 
 [![Email me](https://img.shields.io/badge/WRITE_TO_ME-9C1600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:jakirsks646@gmail.com)
 
